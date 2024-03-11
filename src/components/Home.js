@@ -1,5 +1,9 @@
 import React from "react";
 
+
+const username ="Kratos";
+const city ="Sparta";
+
 function Home() {
   return (
     <div id="home">
@@ -9,3 +13,6 @@ function Home() {
     </div>
   );
 }
+
+export {username,city};
+export default Home;

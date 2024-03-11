@@ -1,6 +1,9 @@
-const username = "Liza";
-const city = "New York";
+const username = "Kratos";
+const city = "Sparta";
 
-const image = "https://i.imgur.com/mV8PQxj.gif";
+const image = "https://wallpapers.com/images/hd/god-of-war-angry-kratos-r9b8ijyeap79zcw2.jpg";
+
+
+export {username,city,image}
 
 // export all three variables as named exports
